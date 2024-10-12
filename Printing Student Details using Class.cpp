@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Classes and Objects to print the Student Details
+//Aim:Implementation of Classes and Objects to print the Student Details
 
 #include <iostream>
 using namespace std;
