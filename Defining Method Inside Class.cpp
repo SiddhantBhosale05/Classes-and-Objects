@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Classes and Objects to Define Method inside Class
+//Aim:Implementation of Classes and Objects to Define Method inside Class
 
 #include<iostream>
 using namespace std;
