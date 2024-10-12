@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Classes and Objects to find the Volume of given Cubiod
+//Aim:Implementation of Classes and Objects to find the Volume of given Cubiod
 
 #include<iostream>
 using namespace std;
